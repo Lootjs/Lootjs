@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at [@chocofamilyme](https://github.com/chocofamilyme)
 - 💬 Ask me about PHP
 - 📫 How to reach me: [Telegram](https://t.me/loot_js)
-- ⚡ Fun fact: I know all the memes.
+- ⚡ Fun fact: I know all memes.
 
 
 [![Otium](https://github-readme-stats.vercel.app/api/pin/?username=Lootjs&repo=otium)](https://github.com/Lootjs/otium)
