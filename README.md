@@ -1,4 +1,3 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=Lootjs&show_icons=true)
 ### Hi there 👋
 
 - 🔭 I’m currently working at [@chocofamilyme](https://github.com/chocofamilyme)
@@ -6,6 +5,7 @@
 - 📫 How to reach me: [Telegram](https://t.me/loot_js)
 - ⚡ Fun fact: I know all memes.
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Lootjs&show_icons=true)
 
 [![Otium](https://github-readme-stats.vercel.app/api/pin/?username=Lootjs&repo=otium)](https://github.com/Lootjs/otium)
 
