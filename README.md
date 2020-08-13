@@ -9,4 +9,6 @@
 
 [![Otium](https://github-readme-stats.vercel.app/api/pin/?username=Lootjs&repo=otium)](https://github.com/Lootjs/otium)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lootjs)](https://github.com/Lootjs/)
+
 [![Hits](http://hits.dwyl.com/Lootjs/Lootjs.svg)](http://hits.dwyl.com/Lootjs/Lootjs) :eyes:
