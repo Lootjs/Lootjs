@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Choco Meetup](https://img.shields.io/badge/choco%20meetup%20I-%D1%81%D0%BF%D0%B8%D0%BA%D0%B5%D1%80-blue.svg)](https://github.com/chocofamilyme)
 [![Choco Meetup](https://i.ibb.co/5jGwQs9/Chocodev-2.png)](https://github.com/chocofamilyme)
 
 - 🔭 I’m currently working at [@chocofamilyme](https://github.com/chocofamilyme)
