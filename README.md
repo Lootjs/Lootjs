@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Choco Meetup](https://i.ibb.co/5jGwQs9/Chocodev-2.png)](https://github.com/chocofamilyme)
+[![ChocoDevDay](https://rahmet.object.pscloud.io/static/upload/images/segments2/1600682593_902.png)](https://github.com/chocofamilyme)
 
 - 🔭 I’m currently working at [@chocofamilyme](https://github.com/chocofamilyme)
 - 💬 Ask me about PHP
