@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [@chocofamilyme](https://github.com/chocofamilyme)
 - 📫 How to reach me: [Telegram](https://t.me/loot_js)
 ---
 
